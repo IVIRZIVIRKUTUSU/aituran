@@ -1,0 +1,244 @@
+{
+  "sorular": [
+    {
+      "soru": "Merhaba",
+      "cevap": "Merhaba, ben Ai Turan. Sana nas\u0131l yard\u0131mc\u0131 olabilirim?"
+    },
+    {
+      "soru": "1*1",
+      "cevap": "1"
+    },
+    {
+      "soru": "1*2",
+      "cevap": "2"
+    },
+    {
+      "soru": "1*3",
+      "cevap": "3"
+    },
+    {
+      "soru": "asd",
+      "cevap": "asd"
+    },
+    {
+      "soru": "2",
+      "cevap": "2 bir rakamd\u0131r"
+    },
+    {
+      "soru": "4*4",
+      "cevap": "16"
+    },
+    {
+      "soru": "tecnopat web adresi",
+      "cevap": "technopat.net"
+    },
+    {
+      "soru": "selamunaleykum",
+      "cevap": "ve aleyk\u00fcm esselam\u00fc verahmetullahi veberaketu ve magrifet\u00fchu ebeden ve daimen"
+    },
+    {
+      "soru": "dinin ne",
+      "cevap": "islam"
+    },
+    {
+      "soru": "9*9",
+      "cevap": "81"
+    },
+    {
+      "soru": "9*8",
+      "cevap": "72"
+    },
+    {
+      "soru": "10*10",
+      "cevap": "100"
+    },
+    {
+      "soru": "adin ne",
+      "cevap": "benim ad\u0131m Ai turan"
+    },
+    {
+      "soru": "Turan",
+      "cevap": "efendim?"
+    },
+    {
+      "soru": "nasilsin",
+      "cevap": "iyiyim sen nas\u0131ls\u0131n"
+    },
+    {
+      "soru": "\u00ca",
+      "cevap": "alt + 1234"
+    },
+    {
+      "soru": "\u263a",
+      "cevap": "alt + 1"
+    },
+    {
+      "soru": "g\u00fcnayd\u0131n",
+      "cevap": "G\u00fcnayd\u0131n! Bug\u00fcn nas\u0131l hissediyorsun?"
+    },
+    {
+      "soru": "ak\u015fam yeme\u011fi \u00f6nerisi",
+      "cevap": "Bug\u00fcn ak\u015fam i\u00e7in g\u00fczel bir sebzeli makarna yapabilirsin."
+    },
+    {
+      "soru": "en sevdi\u011fin renk",
+      "cevap": "Mavi, \u00e7\u00fcnk\u00fc g\u00f6ky\u00fcz\u00fcn\u00fc hat\u0131rlat\u0131yor."
+    },
+    {
+      "soru": "hava durumu",
+      "cevap": "Bug\u00fcn hava g\u00fcne\u015fli, d\u0131\u015far\u0131 \u00e7\u0131kmak i\u00e7in g\u00fczel bir g\u00fcn."
+    },
+    {
+      "soru": "yaz\u0131l\u0131m dili nedir",
+      "cevap": "Yaz\u0131l\u0131m dilleri, bilgisayarlar\u0131n anlayabilece\u011fi talimatlar\u0131 yazmak i\u00e7in kullan\u0131l\u0131r."
+    },
+    {
+      "soru": "Python nedir",
+      "cevap": "Python, y\u00fcksek seviyeli ve genel ama\u00e7l\u0131 bir programlama dilidir."
+    },
+    {
+      "soru": "\u015faka yapar m\u0131s\u0131n",
+      "cevap": "Tabii ki! Neden tavuk kar\u015f\u0131ya ge\u00e7ti? \u00c7\u00fcnk\u00fc di\u011fer tarafa ge\u00e7mek istedi!"
+    },
+    {
+      "soru": "bug\u00fcn ne yapmal\u0131y\u0131m",
+      "cevap": "Kendin i\u00e7in bir \u015fey yap, belki bir y\u00fcr\u00fcy\u00fc\u015fe \u00e7\u0131kabilirsin."
+    },
+    {
+      "soru": "en sevdi\u011fin yemek",
+      "cevap": "Pizza, \u00e7\u00fcnk\u00fc \u00e7ok \u00e7e\u015fitli malzemelerle yap\u0131labiliyor."
+    },
+    {
+      "soru": "hobi nedir",
+      "cevap": "Hobi, bo\u015f zamanlarda yap\u0131lan ve keyif al\u0131nan bir etkinliktir."
+    },
+    {
+      "soru": "en sevdi\u011fin kitap",
+      "cevap": "Ba\u015flang\u0131\u00e7, \u00e7\u00fcnk\u00fc s\u00fcr\u00fckleyici bir hikayesi var."
+    },
+    {
+      "soru": "hayat\u0131n anlam\u0131 nedir",
+      "cevap": "Hayat\u0131n anlam\u0131, ki\u015fiden ki\u015fiye de\u011fi\u015fir; herkes kendi anlam\u0131n\u0131 bulur."
+    },
+    {
+      "soru": "en iyi film hangisi",
+      "cevap": "Bu ki\u015fisel bir tercih, ama 'Matrix' filmini \u00e7ok be\u011feniyorum."
+    },
+    {
+      "soru": "galaksiler ne kadar b\u00fcy\u00fck",
+      "cevap": "Galaksiler, milyarlarca y\u0131ld\u0131z\u0131 bar\u0131nd\u0131ran devasa yap\u0131lar olup, milyonlarca \u0131\u015f\u0131k y\u0131l\u0131 geni\u015fli\u011finde olabilir."
+    },
+    {
+      "soru": "matematik neden \u00f6nemli",
+      "cevap": "Matematik, g\u00fcnl\u00fck ya\u015famda ve bilimsel ara\u015ft\u0131rmalarda temel bir ara\u00e7t\u0131r."
+    },
+    {
+      "soru": "m\u00fczik ruhun g\u0131das\u0131 m\u0131d\u0131r",
+      "cevap": "Evet, m\u00fczik insanlar\u0131n duygular\u0131n\u0131 ifade etmelerine ve rahatlamalar\u0131na yard\u0131mc\u0131 olur."
+    },
+    {
+      "soru": "gece neden karanl\u0131k",
+      "cevap": "G\u00fcne\u015f batt\u0131\u011f\u0131nda, \u0131\u015f\u0131\u011f\u0131 D\u00fcnya'ya ula\u015fmaz ve gece olur."
+    },
+    {
+      "soru": "y\u0131ld\u0131zlar neden parlar",
+      "cevap": "Y\u0131ld\u0131zlar, \u00e7ekirdeklerinde ger\u00e7ekle\u015fen n\u00fckleer f\u00fczyon reaksiyonlar\u0131 nedeniyle parlar."
+    },
+    {
+      "soru": "tarih nedir",
+      "cevap": "Tarih, ge\u00e7mi\u015fte olan olaylar\u0131n incelenmesi ve kaydedilmesidir."
+    },
+    {
+      "soru": "gezegenler nas\u0131l olu\u015fur",
+      "cevap": "Gezegenler, gaz ve toz bulutlar\u0131n\u0131n yer\u00e7ekimi etkisiyle s\u0131k\u0131\u015farak bir araya gelmesiyle olu\u015fur."
+    },
+    {
+      "soru": "insan neden hayal kurar",
+      "cevap": "Hayal kurmak, insan\u0131n yarat\u0131c\u0131l\u0131\u011f\u0131n\u0131 kullanarak gelecekteki olas\u0131l\u0131klar\u0131 d\u00fc\u015f\u00fcnmesini sa\u011flar."
+    },
+    {
+      "soru": "ya\u015fam nedir",
+      "cevap": "Ya\u015fam, biyolojik s\u00fcre\u00e7lerle kendini s\u00fcrd\u00fcren ve \u00e7evresiyle etkile\u015fimde bulunan varl\u0131klar\u0131n durumudur."
+    },
+    {
+      "soru": "yapay zeka nedir",
+      "cevap": "Yapay zeka, bilgisayar sistemlerinin insan benzeri zeka g\u00f6sterebilmesi i\u00e7in geli\u015ftirilen algoritmalard\u0131r."
+    },
+    {
+      "soru": "\u00f6\u011frenme nedir",
+      "cevap": "\u00d6\u011frenme, deneyimler sonucunda bilgi ve becerilerin edinilmesi ve geli\u015ftirilmesidir."
+    },
+    {
+      "soru": "teknoloji neden \u00f6nemlidir",
+      "cevap": "Teknoloji, ya\u015fam kalitesini art\u0131r\u0131r ve insanlara yeni imkanlar sunar."
+    },
+    {
+      "soru": "bilim nedir",
+      "cevap": "Bilim, evreni ve do\u011fay\u0131 anlamak i\u00e7in yap\u0131lan sistemli ara\u015ft\u0131rmalard\u0131r."
+    },
+    {
+      "soru": "insanlar neden sanat yapar",
+      "cevap": "Sanat, insanlar\u0131n duygular\u0131n\u0131 ve d\u00fc\u015f\u00fcncelerini ifade etmeleri i\u00e7in bir yoldur."
+    },
+    {
+      "soru": "g\u00fcne\u015f neden \u0131s\u0131n\u0131r",
+      "cevap": "G\u00fcne\u015f, \u00e7ekirde\u011finde ger\u00e7ekle\u015fen n\u00fckleer f\u00fczyon tepkimeleri sonucu \u0131s\u0131n\u0131r."
+    },
+    {
+      "soru": "beyin nas\u0131l \u00e7al\u0131\u015f\u0131r",
+      "cevap": "Beyin, sinir h\u00fccreleri arac\u0131l\u0131\u011f\u0131yla bilgi i\u015fleyen karma\u015f\u0131k bir organd\u0131r."
+    },
+    {
+      "soru": "a\u015fk nedir",
+      "cevap": "A\u015fk, yo\u011fun bir sevgi ve ba\u011fl\u0131l\u0131k duygusudur."
+    },
+    {
+      "soru": "internet nas\u0131l \u00e7al\u0131\u015f\u0131r",
+      "cevap": "\u0130nternet, d\u00fcnya \u00e7ap\u0131nda birbirine ba\u011fl\u0131 a\u011flar \u00fczerinden veri iletimini sa\u011flayan bir sistemdir."
+    },
+    {
+      "soru": "r\u00fcyalar neden g\u00f6r\u00fcl\u00fcr",
+      "cevap": "R\u00fcyalar, beyin uyku s\u0131ras\u0131nda an\u0131lar\u0131 i\u015fledi\u011finde ve duygular\u0131 ifade etti\u011finde olu\u015fur."
+    },
+    {
+      "soru": "insan neden uyur",
+      "cevap": "Uyku, v\u00fccudun ve beynin dinlenmesi ve yenilenmesi i\u00e7in gereklidir."
+    },
+    {
+      "soru": "deniz neden mavi",
+      "cevap": "Deniz, suyun mavi \u0131\u015f\u0131\u011f\u0131 emmesi ve yans\u0131tmas\u0131 nedeniyle mavi g\u00f6r\u00fcn\u00fcr."
+    },
+    {
+      "soru": "y\u0131ld\u0131zlar neden titrer",
+      "cevap": "Y\u0131ld\u0131zlar, D\u00fcnya atmosferindeki hava dalgalanmalar\u0131 nedeniyle titrek g\u00f6r\u00fcn\u00fcr."
+    },
+    {
+      "soru": "ai turan",
+      "cevap": "efendim?"
+    },
+    {
+      "soru": "hh",
+      "cevap": "hh"
+    },
+    {
+      "soru": "ai",
+      "cevap": "ai yapay zeka demektir"
+    },
+    {
+      "soru": "arial",
+      "cevap": "arial \u00e7ok \u00fcnl\u00fc bir yaz\u0131 tipidir. geli\u015fmi\u015f sistemlerdede bulunur. \u00f6rnek windows,macos,ubuntu vb. ayr\u0131ca canva gibi programlardada bulunur. Ben arial blac kullan\u0131yorurum"
+    },
+    {
+      "soru": "nasilsin?",
+      "cevap": "iyiyim"
+    },
+    {
+      "soru": "fiyasko",
+      "cevap": "fiyasko sa\u00e7ma sapan bir olay demektir."
+    },
+    {
+      "soru": "merhaba",
+      "cevap": "merhaba ben Ai Turan"
+    }
+  ]
+}
